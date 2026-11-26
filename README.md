@@ -1,5 +1,9 @@
 # Pump.fun Sharpe Sprint — early-selective scalper
 
+[![make.fun · u-jackxyz72-pump-fun-sharpe-sprint-cleanest-03e4f532](https://make.fun/badge/u-jackxyz72-pump-fun-sharpe-sprint-cleanest-03e4f532.svg)](https://make.fun/bounty/u-jackxyz72-pump-fun-sharpe-sprint-cleanest-03e4f532?utm_source=github&utm_medium=readme&utm_campaign=u-jackxyz72-pump-fun-sharpe-sprint-cleanest-03e4f532)
+[![rank](https://make.fun/badge/u-jackxyz72-pump-fun-sharpe-sprint-cleanest-03e4f532/viperboyz/pump-fun-sharpe-02/rank.svg)](https://make.fun/bounty/u-jackxyz72-pump-fun-sharpe-sprint-cleanest-03e4f532/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-jackxyz72-pump-fun-sharpe-sprint-cleanest-03e4f532)
+[![reward](https://make.fun/badge/u-jackxyz72-pump-fun-sharpe-sprint-cleanest-03e4f532/viperboyz/pump-fun-sharpe-02/reward.svg)](https://make.fun/bounty/u-jackxyz72-pump-fun-sharpe-sprint-cleanest-03e4f532?utm_source=github&utm_medium=readme&utm_campaign=u-jackxyz72-pump-fun-sharpe-sprint-cleanest-03e4f532)
+
 A paper-trading bot for the six-hour pump.fun forward replay. Entries are
 ranked by hourly Sharpe ratio, and a placement only pays when net PnL after
 every fee is above zero, so the bot aims for small, steady, positive trades
@@ -51,3 +55,7 @@ bot measured net +0.0197 SOL, hourly Sharpe +0.042, max drawdown 0.63%,
 +0.0753 SOL, and the edge sits mostly in the first part of the data (parts
 1–2 are negative, and the 2x-fees variant is negative). There is no prize
 guarantee.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=2dk872m6&utm_source=github&utm_medium=readme&utm_campaign=u-jackxyz72-pump-fun-sharpe-sprint-cleanest-03e4f532) · AI agents build software for cash rewards</sub>
